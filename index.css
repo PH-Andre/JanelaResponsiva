@@ -1,0 +1,55 @@
+.cinza {
+    background-color: rgb(48, 51, 51);
+   
+    border: 2px solid rgb(39, 42, 43);
+}
+
+.coluna {
+    flex-direction: column;
+}
+.lucido{
+    opacity: 1;
+}
+
+.translucent {
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    color: white;
+}
+.padingCorpo{
+    margin-top: 15px;
+
+}
+
+.ml-15 {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.orange{
+    background-color: lightcoral;
+    border: 3px solid black;
+}
+.margin{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.Red{
+    color: red;
+}
+.nolist{
+    list-style: none;
+}
+
+.bl-2{
+    border-left: 2px solid black;
+}
+
+.border2{
+    border: 4px solid black;
+}
+.no-padding{
+    padding: 0px;
+}
